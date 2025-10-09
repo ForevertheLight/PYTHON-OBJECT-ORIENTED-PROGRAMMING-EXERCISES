@@ -11,9 +11,10 @@ class Student:
         print(f"Hello, my name is {self.name} and I'm {self.age} years old.")
 
 Boy1=Student("John",12)
+Boy2=Student("Joshua",21)
 
 Boy1.greet()
-
+Boy2.greet()
 '''Here:
 
 Student is a class

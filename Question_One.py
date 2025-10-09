@@ -10,6 +10,10 @@ class Student:
     def greet(self):
         print(f"Hello, my name is {self.name} and I'm {self.age} years old.")
 
+Boy1=Student("John",12)
+
+Boy1.greet()
+
 '''Here:
 
 Student is a class

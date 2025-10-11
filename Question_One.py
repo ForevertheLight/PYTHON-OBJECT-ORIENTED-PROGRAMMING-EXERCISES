@@ -1,6 +1,6 @@
-'''OOP is a programming style where we organize code into classes and objects.
-It helps model real-world things (like students, cars, or accounts) 
-with data (attributes) and actions (methods).
+'''Object-Oriented Programming is a way of writing programs by organizing code into 
+classes and objects.It focuses on real-world entities like students, cars, or animals,
+and represents them as objects with attributes (data) and methods (functions).
 For Example:'''
 class Student:
     def __init__(self, name, age):
